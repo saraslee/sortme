@@ -2,7 +2,7 @@
 
 
 ## About: 
-I created a web app that allows a user to visualize different sorting algorithms.  The sorting algorithms were coded using JS and the user interface was programmed using HTML and CSS.  I completed this project to solidify my understanding of sorting algorithms while also practicing front end development and efficient designs.  I plan on adding more sorting algorithms to my web app.  
+Web app that allows a user to visualize different sorting algorithms.  The sorting algorithms were written in vanilla JS, and the interface was developed using HTML and CSS.  I completed this project to solidify my understanding of sorting algorithms while also practicing front end development and UI/UX design.  
 
 
 ## Bubble Sort 
@@ -33,6 +33,9 @@ Merge Sort is a divide and conquer algorithm. It divides the input array into tw
 Go to https://saraslee.github.io/sort-me/
 Choose sorting algorithm you want to visualize and click start.  
 Generate random array and click start to run the sort again.  
+
+## Future additions:
+Quick sort, shell sort
 
 
 
